@@ -1,4 +1,7 @@
 # MVC5GEZIPROJESI
+ Code Firt yapısıyla oluşturdugum MVC SEYAHAT-GEZİ SİTESİ
+ Partial'larla desteklenerek kod bütünlügü saglandı.
+ Kullanılan teknolojiler:C#,HTML,CSS,JS,BOOTSTRAP,SQL(MSSQL)
  
 ![anasayfa1](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/36109a88-9634-40cb-a7fd-e7e1d95ec062)
 ![anasayfa2](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/d161cec5-c8a7-43ec-ae1f-277c20220c9e)
