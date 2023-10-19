@@ -11,6 +11,8 @@
 ![blogum1](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/f37a1933-c61f-4c72-b816-621f62d6608c)
 ![blogum2](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/79e18cc1-0141-4865-a9b5-1da7b28425c9)
 ![iletişim](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/d69f665c-6fc3-4af1-ae26-a0990dd7af41)
+![YORUM](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/9995d920-c003-499e-ae2f-a138414f0c88)
+
  # ADMİN PANELİ
 ![girişformu](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/72956774-cb3c-41db-9990-406dec874e35)
 ![adminyonetimpaneli](https://github.com/paladinxsweet/MVC5GEZIPROJESI/assets/94048854/05dfe445-8272-4986-b6f9-a56084a29e9a)
